@@ -1,0 +1,18 @@
+// Define your stuff here
+// Name:RSS_FEED_URL
+
+Google App Engine:http://feeds2.feedburner.com/GoogleAppEngineBlog?format=xml
+
+Garrys blog:http://feeds2.feedburner.com/garrys_blog?format=xml
+
+xkcd:http://xkcd.com/rss.xml
+
+L4D:http://www.l4d.com/blog/rss.xml
+
+Linux Haters:http://feeds.feedburner.com/LinuxHatersBlog?format=xml
+
+Google OS:http://feeds.feedburner.com/GoogleOperatingSystem?format=xml
+
+SMBC Comics:http://www.smbc-comics.com/rss.php
+
+as.ynchrono.us:http://as.ynchrono.us/feeds/posts/default

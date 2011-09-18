@@ -1,0 +1,6 @@
+Digest
+------------------
+Digest is a simple RSS reader. It sits on your computer and you run it ever so often. 
+It reads a list of RSS feeds (inside digests.txt) and will display any new posts. I use it a lot and it is pretty cool.
+
+Requires Feedparser (http://www.feedparser.org/).
